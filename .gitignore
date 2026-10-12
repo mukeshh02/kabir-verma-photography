@@ -1,0 +1,4 @@
+node_modules/
+solene_backup_archive/
+.DS_Store
+*.log
